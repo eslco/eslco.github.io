@@ -19110,7 +19110,7 @@ p.p.gray {
   background: -o-linear-gradient(90deg, #ff3838, #ff7849);
   background: -ms-linear-gradient(90deg, #ff3838, #ff7849);
   background: linear-gradient(0deg, #ff3838, #ff7849);
-  content: $note-error-icon;
+  content: note-error-icon;
   text-shadow: 0 -1px #ff4949;
   font-family: anzhiyufont;
 }
